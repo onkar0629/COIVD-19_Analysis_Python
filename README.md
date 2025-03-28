@@ -30,4 +30,5 @@ python covid19_data_analysis.ipynb
 
 📌 **Author:** Onkar Ankush Jadhav  
 🔗 **GitHub:** [onkar0629](https://github.com/onkar0629)
+
 🔗 **LinkedIn:** [Onkar Jadhav](https://www.linkedin.com/in/onkar-jadhav-oj0629)
